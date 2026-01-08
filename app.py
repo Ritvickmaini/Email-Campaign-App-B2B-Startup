@@ -130,7 +130,7 @@ def generate_email_html(full_name, recipient_email=None, subject=None, custom_ht
 
 <!-- Signature (Locked) -->
 <p style="margin-top:25px; font-size:14px; font-weight:bold;">
-  Josh<br/>
+  Jamie<br/>
   Sales Director<br/>
   3–4 March 2026 | London Olympia<br/>
   <a href="mailto:jamie@b2bstartupandgrowthexpo.com" style="color:#D7262F; font-weight:bold;">jamie@b2bstartupandgrowthexpo.com</a><br/>
