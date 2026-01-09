@@ -74,12 +74,17 @@ def generate_email_html(
                 </table>
 
                 <p style="margin-top:25px;font-weight:bold">
-                  Jamie<br/>
-                  Sales Director<br/>
+                  Regards<br/>
+                  Customer Success Team<br/>
+                  B2B Startup And Growth Expo</br>
+                  (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
+                  <br/>
+                  On Behalf of<br/>
+                  Jamie<br/>
+                  Show Director<br/>
                   <a href="mailto:jamie@b2bstartupandgrowthexpo.com"
                      style="color:#D7262F">jamie@b2bstartupandgrowthexpo.com</a><br/>
-                  (+44) 2034517166
                 </p>
 
                 <p style="font-size:11px;color:#888;margin-top:30px">
